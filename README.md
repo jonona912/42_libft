@@ -21,7 +21,7 @@ Libft - Project at 42 school (42 Wolfsburg)
 	<span> · </span>
 	<a href="#%EF%B8%8F-usage">Usage</a>
 	<span> · </span>
-	<a href="#-testing">Testing</a>
+	<a href="#-What I Learned">Testing</a>
 </h3>
 
 ---
@@ -56,5 +56,9 @@ To use the library functions in your code, simply include its header:
 #include "libft.h"
 ```
 
+## 📚 What I Learned
+- Linked Lists
+- Creating a C library
+- Improved debugging skills
 
 
