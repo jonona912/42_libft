@@ -1,5 +1,8 @@
 # 42_libft
 Libft - Project at 42 school (42 Wolfsburg)
+
+![Bonus Completed](https://img.shields.io/badge/bonus-completed-brightgreen)
+
 <h1 align="center">
 	✏️ Libft
 </h1>
@@ -22,6 +25,8 @@ Libft - Project at 42 school (42 Wolfsburg)
 
 > _Libft is an individual project focused on developing a custom C library by reimplementing a selection of standard C functions and additional utilities. This project establishes a foundation for future work by emphasizing efficient, reusable code and deepening understanding of core programming concepts essential for subsequent projects at 42._
 
+#### 🚀 Bonus
+- [x] Linked list functions completed
 
 For more detailed information, look at the [**subject of this project**](https://github.com/jonona912/42_libft/blob/main/libft_subject.pdf).
 ## 🛠️ Usage
