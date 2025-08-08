@@ -35,7 +35,6 @@ Libft - Project at 42 school (42 Wolfsburg)
 For more detailed information, look at the [**subject of this project**]([https://github.com/jonona912/libft/Subject%20PDFs](https://github.com/jonona912/42_libft/blob/main/libft_subject.pdf)).
 
 ## 🛠️ Usage
-
 ### Requirements
 
 The library is written in C language and thus needs the **`gcc` compiler** and standard **C libraries** to run.
