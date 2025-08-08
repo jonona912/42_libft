@@ -5,7 +5,7 @@ Libft - Project at 42 school (42 Wolfsburg)
 </h1>
 
 <p align="center">
-	<b><i>Your very own C library, built from scratch</i></b><br>
+	<b><i>Personal C library, built from scratch</i></b><br>
 </p>
 
 <p align="center">
@@ -27,9 +27,8 @@ Libft - Project at 42 school (42 Wolfsburg)
 
 ## 💡 About the project
 
-> _This project is about coding a C library. It will contain a lot of general purpose functions your programs will rely upon._
+> _Libft is an individual project focused on developing a custom C library by reimplementing a selection of standard C functions and additional utilities. This project establishes a foundation for future work by emphasizing efficient, reusable code and deepening understanding of core programming concepts essential for subsequent projects at 42._
 
-	Libft is an individual project that requires you to recode a set of standard C library functions, as well as additional utility functions, to build your own library. It serves as a foundation for future projects, teaching you how to write efficient, reusable code.
 
 For more detailed information, look at the [**subject of this project**](https://github.com/jonona912/42_libft/blob/main/libft_subject.pdf).
 ## 🛠️ Usage
