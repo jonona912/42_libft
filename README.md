@@ -32,7 +32,7 @@ Libft - Project at 42 school (42 Wolfsburg)
 
 	Libft is an individual project that requires you to recode a set of standard C library functions, as well as additional utility functions, to build your own library. It serves as a foundation for future projects, teaching you how to write efficient, reusable code.
 
-For more detailed information, look at the [**subject of this project**](https://github.com/username/42cursus/tree/main/Subject%20PDFs).
+For more detailed information, look at the [**subject of this project**]([https://github.com/jonona912/libft/Subject%20PDFs](https://github.com/jonona912/42_libft/blob/main/libft_subject.pdf)).
 
 ## 🛠️ Usage
 
@@ -57,10 +57,3 @@ To use the library functions in your code, simply include its header:
 ```C
 #include "libft.h"
 ```
-
-## 📋 Testing
-
-You can use these third-party testers to fully test the project:
-
-* [Tripouille/libftTester](https://github.com/Tripouille/libftTester)
-* [jcluzet/42_LIBFT](https://github.com/jcluzet/42_LIBFT)
