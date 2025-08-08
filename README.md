@@ -9,7 +9,7 @@ Libft - Project at 42 school (42 Wolfsburg)
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/username/libft?color=lightblue" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/jonona912/42_libft?color=lightblue" />
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/username/libft?color=critical" />
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/username/libft?color=yellow" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/username/libft?color=blue" />
